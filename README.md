@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-👯 I’m currently learning in CUHKSZ.
+👯 I’m currently studying in CUHKSZ.
+
 🌱 I’m majoring in AI&Robotics.
+
 📫 How to reach me:hankydeung@gmail.com
