@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m majoring in AI&Robotics.
 
+👯 I’m currently learning in CUHKSZ.
+🌱 I’m majoring in AI&Robotics.
 📫 How to reach me:hankydeung@gmail.com
